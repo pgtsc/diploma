@@ -581,7 +581,7 @@ function calculateCenterFee() {
         let hasPractical = semiAndPracInfo.hasPractical;
         
         if(parseInt(stuSemi) < 8){            
-            basicFee = 500; qFee = 50; pFee = 0; referredFee = (semiNos - 1) * 250; 
+            basicFee = 600; qFee = 50; pFee = 0; referredFee = (semiNos - 1) * 250; 
             if(hasPractical){ pFee = (hasPractical.pracSubs)*40;}
         }else{basicFee = 300; qFee = semiNos > 1 ? 50 : 0;  pFee = 0;}
 
