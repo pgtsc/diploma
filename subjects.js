@@ -40,7 +40,7 @@ const SUBJECTS_DATA = {
         { "code": "25711", "name": "Bangla-I", "tf": 60, "pf": 0 },
         { "code": "25712", "name": "English-I", "tf": 60, "pf": 0 },
         { "code": "25812", "name": "Physical Education & Life Skills Development", "tf": 0, "pf": 25 },
-        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 25 },
+        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 0 },
         { "code": "25913", "name": "Chemistry", "tf": 90, "pf": 25 },
         { "code": "26111", "name": "Creativity and Concept Development", "tf": 30, "pf": 25 },
         { "code": "26711", "name": "Basic Electricity", "tf": 90, "pf": 25 }
@@ -49,14 +49,14 @@ const SUBJECTS_DATA = {
         { "code": "25721", "name": "Bangla -II", "tf": 60, "pf": 0 },
         { "code": "25722", "name": "English-II", "tf": 60, "pf": 0 },
         { "code": "25912", "name": "Physics -I", "tf": 90, "pf": 25 },
-        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 25 },
+        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 0 },
         { "code": "26121", "name": "Architectural Design-I", "tf": 60, "pf": 50 },
         { "code": "26411", "name": "Civil Engineering Metarials", "tf": 60, "pf": 25 },
         { "code": "28511", "name": "Computer Office Application", "tf": 0, "pf": 50 }
       ],
       "3rd": [
         { "code": "25922", "name": "Physics-II", "tf": 90, "pf": 25 },
-        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 25 },
+        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 0 },
         { "code": "26131", "name": "Architectural Design-II", "tf": 90, "pf": 25 },
         { "code": "26132", "name": "Architectural Graphics", "tf": 60, "pf": 25 },
         { "code": "26133", "name": "Working Drawing-I", "tf": 30, "pf": 25 },
@@ -110,7 +110,7 @@ const SUBJECTS_DATA = {
         { "code": "21011", "name": "Engineering Drawing", "tf": 0, "pf": 50 },
         { "code": "25711", "name": "Bangla-I", "tf": 60, "pf": 0 },
         { "code": "25712", "name": "English-I", "tf": 60, "pf": 0 },
-        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 25 },
+        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 0 },
         { "code": "25912", "name": "Physics -I", "tf": 90, "pf": 25 },
         { "code": "26211", "name": "Automobile Fundamentals", "tf": 60, "pf": 25 },
         { "code": "26711", "name": "Basic Electricity", "tf": 90, "pf": 25 }
@@ -120,14 +120,14 @@ const SUBJECTS_DATA = {
         { "code": "25722", "name": "English-II", "tf": 60, "pf": 0 },
         { "code": "25812", "name": "Physical Education & Life Skills Development", "tf": 0, "pf": 25 },
         { "code": "25913", "name": "Chemistry", "tf": 90, "pf": 25 },
-        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 25 },
+        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 0 },
         { "code": "25922", "name": "Physics-II", "tf": 90, "pf": 25 },
         { "code": "26221", "name": "Automotive Engine System-I", "tf": 60, "pf": 25 },
         { "code": "27011", "name": "Basic Workshop Practice", "tf": 0, "pf": 25 }
       ],
       "3rd": [
         { "code": "25811", "name": "Social Science", "tf": 60, "pf": 0 },
-        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 25 },
+        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 0 },
         { "code": "26231", "name": "Automotive Engine System-II", "tf": 60, "pf": 25 },
         { "code": "26811", "name": "Basic Electronics", "tf": 60, "pf": 25 },
         { "code": "27012", "name": "Machine Shop Practice I", "tf": 30, "pf": 50 },
@@ -182,7 +182,7 @@ const SUBJECTS_DATA = {
         { "code": "25711", "name": "Bangla-I", "tf": 60, "pf": 0 },
         { "code": "25712", "name": "English-I", "tf": 60, "pf": 0 },
         { "code": "25811", "name": "Social Science", "tf": 60, "pf": 0 },
-        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 25 },
+        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 0 },
         { "code": "25913", "name": "Chemistry", "tf": 90, "pf": 25 },
         { "code": "26411", "name": "Civil Engineering Metarials", "tf": 60, "pf": 25 },
         { "code": "26711", "name": "Basic Electricity", "tf": 90, "pf": 25 }
@@ -192,7 +192,7 @@ const SUBJECTS_DATA = {
         { "code": "25722", "name": "English-II", "tf": 60, "pf": 0 },
         { "code": "25812", "name": "Physical Education & Life Skills Development", "tf": 0, "pf": 25 },
         { "code": "25912", "name": "Physics -I", "tf": 90, "pf": 25 },
-        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 25 },
+        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 0 },
         { "code": "26421", "name": "Civil Engineering Drawing", "tf": 30, "pf": 50 },
         { "code": "26811", "name": "Basic Electronics", "tf": 60, "pf": 25 },
         { "code": "27011", "name": "Basic Workshop Practice", "tf": 0, "pf": 25 }
@@ -200,7 +200,7 @@ const SUBJECTS_DATA = {
       "3rd": [
         { "code": "25831", "name": "Business Communication", "tf": 60, "pf": 0 },
         { "code": "25922", "name": "Physics-II", "tf": 90, "pf": 25 },
-        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 25 },
+        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 0 },
         { "code": "26431", "name": "Structural Mechanics", "tf": 60, "pf": 25 },
         { "code": "26432", "name": "Surveying-I", "tf": 60, "pf": 25 },
         { "code": "26433", "name": "Construction Process-I", "tf": 60, "pf": 25 },
@@ -255,7 +255,7 @@ const SUBJECTS_DATA = {
         { "code": "25711", "name": "Bangla-I", "tf": 60, "pf": 0 },
         { "code": "25712", "name": "English-I", "tf": 60, "pf": 0 },
         { "code": "25812", "name": "Physical Education & Life skill Development", "tf": 0, "pf": 25 },
-        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 25 },
+        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 0 },
         { "code": "25912", "name": "Physics-I", "tf": 90, "pf": 25 },
         { "code": "26711", "name": "Basic Electricity", "tf": 90, "pf": 25 },
         { "code": "26712", "name": "Electrical Engineering Materials", "tf": 60, "pf": 0 }
@@ -263,7 +263,7 @@ const SUBJECTS_DATA = {
       "2nd": [
         { "code": "25721", "name": "Bangla -II", "tf": 60, "pf": 0 },
         { "code": "25722", "name": "English-II", "tf": 60, "pf": 0 },
-        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 25 },
+        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 0 },
         { "code": "25922", "name": "Physics -II", "tf": 90, "pf": 25 },
         { "code": "26721", "name": "Electrical Circuits-I", "tf": 90, "pf": 25 },
         { "code": "26722", "name": "Electrical Engineering Drawing", "tf": 30, "pf": 50 },
@@ -271,7 +271,7 @@ const SUBJECTS_DATA = {
       ],
       "3rd": [
         { "code": "25913", "name": "Chemistry", "tf": 90, "pf": 25 },
-        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 25 },
+        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 0 },
         { "code": "26731", "name": "Electrical Circuits-II", "tf": 90, "pf": 25 },
         { "code": "26732", "name": "Electrical Appliances", "tf": 60, "pf": 25 },
         { "code": "26833", "name": "Industrial Electronics", "tf": 90, "pf": 25 },
@@ -323,7 +323,7 @@ const SUBJECTS_DATA = {
         { "code": "25711", "name": "Bangla-I", "tf": 60, "pf": 0 },
         { "code": "25712", "name": "English-I", "tf": 60, "pf": 0 },
         { "code": "25812", "name": "Physical Education & Life skills Development", "tf": 0, "pf": 25 },
-        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 25 },
+        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 0 },
         { "code": "25913", "name": "Chemistry", "tf": 90, "pf": 25 },
         { "code": "26911", "name": "Food Engineering Fundamentals", "tf": 60, "pf": 25 },
         { "code": "26912", "name": "Food Safety & Hygiene Management", "tf": 60, "pf": 25 }
@@ -332,7 +332,7 @@ const SUBJECTS_DATA = {
         { "code": "25721", "name": "Bangla -II", "tf": 60, "pf": 0 },
         { "code": "25722", "name": "English-II", "tf": 60, "pf": 0 },
         { "code": "25912", "name": "Physics -I", "tf": 90, "pf": 25 },
-        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 25 },
+        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 0 },
         { "code": "26711", "name": "Basic Electricity", "tf": 90, "pf": 25 },
         { "code": "26921", "name": "Food Science & Nutrition", "tf": 60, "pf": 25 },
         { "code": "26922", "name": "Food Plant Layout & Design", "tf": 30, "pf": 25 },
@@ -341,7 +341,7 @@ const SUBJECTS_DATA = {
       "3rd": [
         { "code": "25811", "name": "Social Science", "tf": 60, "pf": 0 },
         { "code": "25922", "name": "Physics-II", "tf": 90, "pf": 25 },
-        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 25 },
+        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 0 },
         { "code": "28511", "name": "Computer office Application", "tf": 0, "pf": 50 },
         { "code": "26811", "name": "Basic Electronics", "tf": 60, "pf": 25 },
         { "code": "26931", "name": "Catering Management", "tf": 60, "pf": 25 },
@@ -396,7 +396,7 @@ const SUBJECTS_DATA = {
         { "code": "25711", "name": "Bangla-I", "tf": 60, "pf": 0 },
         { "code": "25712", "name": "English-I", "tf": 60, "pf": 0 },
         { "code": "25812", "name": "Physical Education & Life Skills Development", "tf": 0, "pf": 25 },
-        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 25 },
+        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 0 },
         { "code": "25912", "name": "Physics -I", "tf": 90, "pf": 25 },
         { "code": "27011", "name": "Basic Workshop Practice", "tf": 0, "pf": 25 },
         { "code": "27012", "name": "Machine Shop Practice I", "tf": 30, "pf": 50 }
@@ -405,7 +405,7 @@ const SUBJECTS_DATA = {
         { "code": "25721", "name": "Bangla -II", "tf": 60, "pf": 0 },
         { "code": "25722", "name": "English-II", "tf": 60, "pf": 0 },
         { "code": "25913", "name": "Chemistry", "tf": 90, "pf": 25 },
-        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 25 },
+        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 0 },
         { "code": "25922", "name": "Physics -II", "tf": 90, "pf": 25 },
         { "code": "26711", "name": "Basic Electricity", "tf": 90, "pf": 25 },
         { "code": "27021", "name": "Mechanical Engineering Drawing", "tf": 30, "pf": 50 }
@@ -413,7 +413,7 @@ const SUBJECTS_DATA = {
       "3rd": [
         { "code": "25811", "name": "Social Science", "tf": 60, "pf": 0 },
         { "code": "25831", "name": "Business Communication", "tf": 60, "pf": 0 },
-        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 25 },
+        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 0 },
         { "code": "27031", "name": "Mechanical Engineering Materials", "tf": 60, "pf": 0 },
         { "code": "27032", "name": "Machine Shop Practice-II", "tf": 30, "pf": 50 },
         { "code": "27231", "name": "RAC Cycles and Components", "tf": 60, "pf": 25 },
@@ -466,7 +466,7 @@ const SUBJECTS_DATA = {
         { "code": "25711", "name": "Bangla-I", "tf": 60, "pf": 0 },
         { "code": "25712", "name": "English-I", "tf": 60, "pf": 0 },
         { "code": "25811", "name": "Social Science", "tf": 60, "pf": 0 },
-        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 25 },
+        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 0 },
         { "code": "25912", "name": "Physics -I", "tf": 90, "pf": 25 },
         { "code": "26411", "name": "Civil Engineering Materials", "tf": 60, "pf": 25 },
         { "code": "26711", "name": "Basic Electricity", "tf": 90, "pf": 25 }
@@ -475,7 +475,7 @@ const SUBJECTS_DATA = {
         { "code": "25721", "name": "Bangla -II", "tf": 60, "pf": 0 },
         { "code": "25722", "name": "English -II", "tf": 60, "pf": 0 },
         { "code": "25812", "name": "Physical Education & Life skills Development", "tf": 0, "pf": 25 },
-        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 25 },
+        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 0 },
         { "code": "25922", "name": "Physics -II", "tf": 90, "pf": 25 },
         { "code": "28511", "name": "Computer Office Application", "tf": 0, "pf": 50 },
         { "code": "26811", "name": "Basic Electronics", "tf": 60, "pf": 25 },
@@ -483,7 +483,7 @@ const SUBJECTS_DATA = {
       ],
       "3rd": [
         { "code": "25913", "name": "Chemistry", "tf": 90, "pf": 25 },
-        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 25 },
+        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 0 },
         { "code": "25916", "name": "Statistics", "tf": 60, "pf": 0 },
         { "code": "26434", "name": "Basic Construction Process", "tf": 60, "pf": 25 },
         { "code": "27831", "name": "Leveling", "tf": 60, "pf": 25 },
@@ -540,7 +540,7 @@ const SUBJECTS_DATA = {
         { "code": "21011", "name": "Engineering Drawing", "tf": 0, "pf": 50 },
         { "code": "25711", "name": "Bangla-I", "tf": 60, "pf": 0 },
         { "code": "25712", "name": "English-I", "tf": 60, "pf": 0 },
-        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 25 },
+        { "code": "25911", "name": "Mathematics -I", "tf": 90, "pf": 0 },
         { "code": "25912", "name": "Physics -I", "tf": 90, "pf": 25 },
         { "code": "26711", "name": "Basic Electricity", "tf": 90, "pf": 25 },
         { "code": "28511", "name": "Computer Office Application", "tf": 0, "pf": 50 }
@@ -550,7 +550,7 @@ const SUBJECTS_DATA = {
         { "code": "25722", "name": "English-II", "tf": 60, "pf": 0 },
         { "code": "25812", "name": "Physical Education & Life skills Development", "tf": 0, "pf": 25 },
         { "code": "25913", "name": "Chemistry", "tf": 90, "pf": 25 },
-        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 25 },
+        { "code": "25921", "name": "Mathematics-II", "tf": 90, "pf": 0 },
         { "code": "26811", "name": "Basic Electronics", "tf": 60, "pf": 25 },
         { "code": "28521", "name": "Python Programming", "tf": 60, "pf": 25 },
         { "code": "28522", "name": "Computer Graphics Design-I", "tf": 0, "pf": 50 }
@@ -558,7 +558,7 @@ const SUBJECTS_DATA = {
       "3rd": [
         { "code": "25811", "name": "Social Science", "tf": 60, "pf": 0 },
         { "code": "25922", "name": "Physics -II", "tf": 90, "pf": 25 },
-        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 25 },
+        { "code": "25931", "name": "Mathematics-III", "tf": 90, "pf": 0 },
         { "code": "26831", "name": "Digital Electronics-I", "tf": 60, "pf": 25 },
         { "code": "28531", "name": "Application Development Using Python", "tf": 60, "pf": 25 },
         { "code": "28532", "name": "Computer Graphics Design-II", "tf": 0, "pf": 25 },
