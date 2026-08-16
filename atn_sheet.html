@@ -77,7 +77,7 @@
                 
                 if (tf > 0) { theoryList.push({ code: subInfo.code, name: subInfo.name }); }
 
-                if (pf > 0 && student.type === "Regular" && subInfo.semi === student.semi && !subInfo.name.includes("Math")) { 
+                if (pf > 0 && student.type === "Regular" && subInfo.semi === student.semi) { 
                     practicalList.push({ code: subInfo.code, name: subInfo.name }); 
                 }
             } else { theoryList.push({ code: code, name: ''});}
